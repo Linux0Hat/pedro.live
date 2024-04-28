@@ -44,7 +44,7 @@ const streamer = (stream) => {
     stream.push("\033[2J\033[3J\033[H");
     stream.push(frames[index]);
     index = (index + 1) % frames.length;
-  }, 200);
+  }, 90);
 };
 
 const server = http.createServer((req, res) => {
