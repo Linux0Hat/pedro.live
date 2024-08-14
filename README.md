@@ -10,7 +10,7 @@ curl pedro.linuxhat.net
 
 # :partypedro:
 
-![plot](./images/5.png)
+![plot](image.png)
 
 # Thanks
 
